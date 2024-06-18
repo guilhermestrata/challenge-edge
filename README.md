@@ -1,4 +1,4 @@
-# Tech Mahindra Challenge
+# Tech Mahindra Challenge 🏎️🩵
 
 ## Descrição do Projeto
 
