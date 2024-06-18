@@ -1,6 +1,6 @@
-# Tech Mahindra Challenge
+Tech Mahindra Challenge
 Descrição do Projeto
-Este projeto utiliza um Arduino para medir a temperatura do pneu do carro da Formula-E e a distância dele as laterais da pista, exibindo os valores em um display LCD I2C. O sensor de temperatura utilizado é o DS18B20, e o sensor de distância é o HC-SR04. Os valores de temperatura e distância são atualizados a cada 2 segundos e também são enviados para o monitor serial.
+Este projeto utiliza um Arduino para medir a temperatura do pneu do carro da Fórmula-E e a distância dele às laterais da pista, exibindo os valores em um display LCD I2C. O sensor de temperatura utilizado é o DS18B20, e o sensor de distância é o HC-SR04. Os valores de temperatura e distância são atualizados a cada 2 segundos e também são enviados para o monitor serial.
 
 Componentes Utilizados
 Arduino Uno (ou qualquer outra placa compatível)
