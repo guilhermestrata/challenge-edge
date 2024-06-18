@@ -39,3 +39,10 @@ Este projeto utiliza um Arduino para medir a temperatura do pneu do carro da Fó
 ### Licença
 
 Este formato está otimizado para leitura e navegação em um repositório GitHub, com todos os títulos e subtítulos devidamente formatados para clareza.
+
+### Colaboradores 
+- Guilherme Arendt 
+- Pedro Polido
+- Fabricio Gomes 
+- Vitor Cesarino
+- Matheus Mamoto
