@@ -36,6 +36,6 @@ Este projeto utiliza um Arduino para medir a temperatura do pneu do carro da Fó
 - **TRIG** -> Pino 12
 - **ECHO** -> Pino 11
 
-##Licença
+### Licença
 
 Este formato está otimizado para leitura e navegação em um repositório GitHub, com todos os títulos e subtítulos devidamente formatados para clareza.
